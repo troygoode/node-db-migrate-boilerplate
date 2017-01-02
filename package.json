@@ -1,0 +1,15 @@
+{
+  "name": "db-migrate-boilerplate",
+  "version": "1.0.0",
+  "description": "Boilerplate for using raw SQL migrations in db-migrate.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "db-migrate",
+    "migrations"
+  ],
+  "author": "Troy Goode <troygoode@gmail.com>",
+  "license": "MIT"
+}
