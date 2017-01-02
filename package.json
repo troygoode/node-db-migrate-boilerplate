@@ -1,7 +1,7 @@
 {
   "name": "db-migrate-boilerplate",
   "version": "1.0.0",
-  "description": "Boilerplate for using raw SQL migrations in db-migrate.",
+  "description": "Reduce the amount of boilerplate in your project needed to support raw SQL migrations using db-migrate.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -10,6 +10,17 @@
     "db-migrate",
     "migrations"
   ],
+  "homepage": "https://github.com/troygoode/node-db-migrate-boilerplate/",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/troygoode/node-db-migrate-boilerplate.git"
+  },
+  "bugs": {
+    "url": "https://github.com/troygoode/node-db-migrate-boilerplate/issues"
+  },
+  "engines": {
+    "node": ">=6"
+  },
   "author": "Troy Goode <troygoode@gmail.com>",
   "license": "MIT"
 }
